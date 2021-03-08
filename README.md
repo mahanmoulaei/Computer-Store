@@ -1,5 +1,7 @@
 # Computer-Store
 <br>
+Computer-Store is an application that can be used in computer stores and the employees can manage their inventory computers. The owner of the store of any employee that has the password, can add a new computer to the store inventory or edit the computer's info. The password currently is "password". Anyone can see all computers by a specific brand or see all computers less than a specific price. This program is in Java and is created in the Eclipse platform.
+<br><br>
 <h2>Part I</h2>
 <img src="https://user-images.githubusercontent.com/75180223/110267268-6fef4480-7f8d-11eb-9a3c-ceca302f5104.png" width="800" title="A Computer object has four attributes, a brand (String), a model (String), an SN (long), and a
 price (double). SN indicates the serial number of the computer.
