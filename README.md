@@ -1,6 +1,6 @@
 # Computer-Store
 
-<h3>Part I</h3>
+<h2>Part I</h2>
 <img src="https://user-images.githubusercontent.com/75180223/110267268-6fef4480-7f8d-11eb-9a3c-ceca302f5104.png" width="800" title="A Computer object has four attributes, a brand (String), a model (String), an SN (long), and a
 price (double). SN indicates the serial number of the computer.
 For this part, you are required to design and implement the Computer class according to the
@@ -21,7 +21,7 @@ the method is called. (Hint: You are allowed to add other attributes to the clas
 - It is required to compare two Computer objects for equality. Two Computer objects are
 considered equal if they have the same brand, model and price. (Hint: equals() method)">
 
-<h3>Part II</h3>
+<h2>Part II</h2>
 
 <img src="https://user-images.githubusercontent.com/75180223/110267387-b17fef80-7f8d-11eb-8fad-d9f16d5a4810.png" width="800" title="">
 
