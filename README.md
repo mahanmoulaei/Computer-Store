@@ -23,8 +23,8 @@ considered equal if they have the same brand, model and price. (Hint: equals() m
 
 <h3>Part II</h3>
 
-<img src="https://user-images.githubusercontent.com/75180223/110267387-b17fef80-7f8d-11eb-8fad-d9f16d5a4810.png" width="600" title="">
+<img src="https://user-images.githubusercontent.com/75180223/110267387-b17fef80-7f8d-11eb-8fad-d9f16d5a4810.png" width="800" title="">
 
-<img src="https://user-images.githubusercontent.com/75180223/110267409-bf357500-7f8d-11eb-9c7a-2da56ea70a7d.png" width="600" title="">
+<img src="https://user-images.githubusercontent.com/75180223/110267409-bf357500-7f8d-11eb-9c7a-2da56ea70a7d.png" width="800" title="">
 
-<img src="https://user-images.githubusercontent.com/75180223/110267426-c52b5600-7f8d-11eb-8031-a2169746e719.png" width="600" title="">
+<img src="https://user-images.githubusercontent.com/75180223/110267426-c52b5600-7f8d-11eb-8031-a2169746e719.png" width="800" title="">
